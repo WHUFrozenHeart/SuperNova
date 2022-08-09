@@ -1,0 +1,4 @@
+repository "SuperNova@ssl://frozen-heart-71ad79e5-675c-4851-b1af-2c4816a69f2c@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
